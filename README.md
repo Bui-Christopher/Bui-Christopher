@@ -35,16 +35,16 @@
 [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
 
 **Infrastructure as Code**
-[![Ansible](https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=fff)](#)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=fff)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=fff)](#)
 [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 **Operating Systems**
+[![MacOS](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
